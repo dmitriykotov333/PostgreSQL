@@ -1,2 +1,2 @@
 # PostgreSQL
-h2 tutorial1 - create database
+tutorial1 - create database
