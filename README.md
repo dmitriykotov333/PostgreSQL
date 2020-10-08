@@ -1,2 +1,2 @@
 # PostgreSQL
-Tutorial by working with database postgreSQl
+h2 tutorial1 - create database
