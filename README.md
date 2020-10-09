@@ -8,3 +8,5 @@ Tutorial 3 - NOT NULL, default
 Tutorial 4 - SELECT
 
 Part1: WHERE, AND, OR, LIKE(%, _), BETWEEN
+
+Part2: IN, NOT IN, NOT
