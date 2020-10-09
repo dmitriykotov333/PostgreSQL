@@ -13,7 +13,7 @@ Part2: IN, NOT IN, NOT
 
 Tutorial 5 - DELETE, UPDATE
 
-Tutorial 6 - DELETE, UPDATE
+Tutorial 6 - ALTER ADD, DROP 
 
 # Атомарность
 
