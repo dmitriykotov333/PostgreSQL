@@ -13,7 +13,7 @@ Part2: IN, NOT IN, NOT
 
 Tutorial 5 - DELETE, UPDATE
 
-Tutorial 6 - ALTER ADD, DROP 
+Tutorial 6 - ALTER ADD, DROP, RENAME TO 
 
 Tutorial 7 - CASE 
 
