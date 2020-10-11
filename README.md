@@ -17,6 +17,8 @@ Tutorial 6 - ALTER ADD, DROP
 
 Tutorial 7 - CASE 
 
+Tutorial 8 - ORDER BY, ORDER BY COLUMN_NAME DESC
+
 # Атомарность
 
 ПРАВИЛО 1. Столбец, содержаищй атомарные данные, не может состоять из нескольких однотипных элементов.
