@@ -19,6 +19,8 @@ Tutorial 7 - CASE
 
 Tutorial 8 - ORDER BY, ORDER BY COLUMN_NAME DESC
 
+Tutorial 9 - SUM, ORDER BY SUM, AVG GROUP BY
+
 # Атомарность
 
 ПРАВИЛО 1. Столбец, содержаищй атомарные данные, не может состоять из нескольких однотипных элементов.
