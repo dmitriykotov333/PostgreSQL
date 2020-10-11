@@ -21,7 +21,7 @@ Tutorial 8 - ORDER BY, ORDER BY COLUMN_NAME DESC
 
 Tutorial 9 - SUM, ORDER BY SUM, AVG GROUP BY
 
-Tutorial 10 - MIN, MAX, COUNT, LIMIT
+Tutorial 10 - MIN, MAX, COUNT, LIMIT, DISTINCT
 
 # Атомарность
 
