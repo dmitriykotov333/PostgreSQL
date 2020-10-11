@@ -21,6 +21,8 @@ Tutorial 8 - ORDER BY, ORDER BY COLUMN_NAME DESC
 
 Tutorial 9 - SUM, ORDER BY SUM, AVG GROUP BY
 
+Tutorial 10 - MIN, MAX, COUNT, LIMIT
+
 # Атомарность
 
 ПРАВИЛО 1. Столбец, содержаищй атомарные данные, не может состоять из нескольких однотипных элементов.
