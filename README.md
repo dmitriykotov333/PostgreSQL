@@ -11,7 +11,7 @@ Part2: IN, NOT IN, NOT
 - Tutorial 8 - ORDER BY, ORDER BY COLUMN_NAME DESC
 - Tutorial 9 - SUM, ORDER BY SUM, AVG GROUP BY
 - Tutorial 10 - MIN, MAX, COUNT, LIMIT, DISTINCT
-- Tutorial 11 - AS
+- Tutorial 11 - AS, CROSS JOIN, INNER JOIN
 
 #### Атомарность:
   - ПРАВИЛО 1. Столбец, содержаищй атомарные данные, не может состоять из нескольких однотипных элементов.
