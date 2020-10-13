@@ -48,7 +48,7 @@ Part2: IN, NOT IN, NOT
 
 - #### многие-ко-многим
 > Две таблицы связываются через соединительную таблицу, благодаря чему многие записи первой таблицы могут быть связаны со многими записями второй, и наоборот.
-<img src="https://github.com/dmitriykotov333/PostgreSQL/blob/main/images/many-to-many.PNG" width="60%" height="30%">
+<img src="https://github.com/dmitriykotov333/PostgreSQL/blob/main/images/many-to-many.PNG" width="80%" height="50%">
 
 
 # 1НФ (Первая нормализованная форма)
