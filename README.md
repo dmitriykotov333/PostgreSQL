@@ -45,6 +45,7 @@ Part2: IN, NOT IN, NOT
 - #### один-ко-многим
 > Запись одной таблицы может быть связана со многими записями другой таблицы но каждая запись последней может быть связана только с одной записью в первой.
 
+<img src="https://github.com/dmitriykotov333/PostgreSQL/images/one-to-many.JPG" width="60%" height="30%">
 ![one-to-many](https://github.com/dmitriykotov333/PostgreSQL/images/one-to-many.JPG)
 
 - #### многие-ко-многим
