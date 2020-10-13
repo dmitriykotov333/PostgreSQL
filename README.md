@@ -13,7 +13,7 @@ Part2: IN, NOT IN, NOT
 - Tutorial 10 - MIN, MAX, COUNT, LIMIT, DISTINCT
 - Tutorial 11 - AS
 
-Атомарность:
+#### Атомарность:
   - ПРАВИЛО 1. Столбец, содержаищй атомарные данные, не может состоять из нескольких однотипных элементов.
 
 | food_name	| ingredients | 
