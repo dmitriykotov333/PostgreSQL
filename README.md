@@ -12,7 +12,7 @@ Part2: IN, NOT IN, NOT
 - Tutorial 9 - SUM, ORDER BY SUM, AVG GROUP BY
 - Tutorial 10 - MIN, MAX, COUNT, LIMIT, DISTINCT
 - Tutorial 11 - AS, CROSS JOIN, INNER JOIN
-- Tutorial 12 - subquery
+- Tutorial 12 - SUBQUERY, EXISTS, NOT EXISTS
 
 #### Атомарность:
   - ПРАВИЛО 1. Столбец, содержаищй атомарные данные, не может состоять из нескольких однотипных элементов.
