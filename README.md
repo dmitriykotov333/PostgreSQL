@@ -17,6 +17,7 @@
 - Tutorial 12 - SUBQUERY, EXISTS, NOT EXISTS
 - Tutorial 13 - LEFT OUTER JOIN, RIGHT OUTER JOIN
 - Tutorial 14 - UNION, UNION ALL, INTERSECT, EXCEPT
+- Tutorial 15 - CHECK, UNIQUE
 
 #### Атомарность:
   - ПРАВИЛО 1. Столбец, содержаищй атомарные данные, не может состоять из нескольких однотипных элементов.
