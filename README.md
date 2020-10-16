@@ -19,6 +19,7 @@
 - Tutorial 14 - UNION, UNION ALL, INTERSECT, EXCEPT
 - Tutorial 15 - CHECK, UNIQUE
 - Tutorial 16 - CREATE VIEW (ПРЕДСТОВЛЕНИЕ)
+- Tutorial 17 - CREATE PROCEDURE, CREATE FUNCTION
 
 #### Атомарность:
   - ПРАВИЛО 1. Столбец, содержаищй атомарные данные, не может состоять из нескольких однотипных элементов.
