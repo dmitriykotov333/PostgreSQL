@@ -22,6 +22,7 @@
 - Tutorial 17 - CREATE PROCEDURE, CREATE FUNCTION
 - Tutorila 18 - TRIGGER (https://codetown.ru/sql/triggery/)
 - Tutorial 19 - CURSOR (https://postgrespro.ru/docs/postgrespro/9.6/plpgsql-cursors)
+- Tutorial 20 - TRANSACTION
 
 #### Атомарность:
   - ПРАВИЛО 1. Столбец, содержаищй атомарные данные, не может состоять из нескольких однотипных элементов.
